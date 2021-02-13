@@ -1,4 +1,4 @@
-# Spinning AME
+# Spinning Ame
 Ame spinning on your Game Boy Advance, based on [Walfie's](https://twitter.com/walfieee) spinning Ame.
 
 Lately I've been toying around with GBA development for fun so I put this silly thing together.
